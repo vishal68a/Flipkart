@@ -22,7 +22,7 @@ This project is a clone of the popular e-commerce website, Flipkart. It allows u
 
 ## Team Members
 
-- Vishwas Awasthi - [vishwasawasthi948@example.com](mailto:vishwasawasthi948@example.com)
+- Vishal Pal - [vishalpal948@example.com](mailto:vishalpal948@example.com)
 
 
 ## Project Link
